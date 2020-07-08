@@ -1,0 +1,8 @@
+Added Component: Designator=MH1(MH-NPTH-3.5mm)
+Added Component: Designator=MH2(MH-NPTH-3.5mm)
+Added Component: Designator=MH3(MH-NPTH-3.5mm)
+Added Component: Designator=MH4(MH-NPTH-3.5mm)
+Added Member To Class: ClassName=Mechanincal Member=Component MH1 Mounting Hole
+Added Member To Class: ClassName=Mechanincal Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=Mechanincal Member=Component MH3 Mounting Hole
+Added Member To Class: ClassName=Mechanincal Member=Component MH4 Mounting Hole

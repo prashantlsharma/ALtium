@@ -1,0 +1,22 @@
+Added Component: Designator=C1(CAP_ALUM_ELY_14MM)
+Add component (AddParameter): Name = "Manufacturer"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EKXL401ELL470MJ40S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.09000, 10=0.86400, 100=0.64800, 500=0.48900, 1000=0.43200, 2000=0.40300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "661-EKXL401ELL470MJ4"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_ALUM_ELY_14MM)
+Add component (AddParameter): Name = "Manufacturer"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EKXL401ELL470MJ40S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.09000, 10=0.86400, 100=0.64800, 500=0.48900, 1000=0.43200, 2000=0.40300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "661-EKXL401ELL470MJ4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=PGND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=PGND Pin=C2-2
+Added Member To Class: ClassName=1st stage NonIsolted profile Member=Component C1 EKXL401ELL470MJ40S
+Added Member To Class: ClassName=1st stage NonIsolted profile Member=Component C2 EKXL401ELL470MJ40S

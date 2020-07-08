@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=NetR11_1 Pin=R14-2
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=Output profile Member=Component J2 691201520002

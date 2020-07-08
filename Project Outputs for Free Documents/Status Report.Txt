@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [48V_15A charger.PrjPcb]
+   Generated File[Bill of Materials-48V_15A charger.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:28:08 On 07-07-2020
